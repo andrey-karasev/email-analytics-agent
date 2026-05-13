@@ -2,3 +2,5 @@ node_modules/
 dist/
 .env
 rules.json
+.vscode/
+*.code-workspace
